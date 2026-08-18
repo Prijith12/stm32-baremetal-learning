@@ -9,4 +9,6 @@ Built while learning embedded system fundamentals as part of transition into emb
 ## Learning-Projects
 
 ### 01: led-button-poll
+### 02: led-button-interrupt
+### 03: timer-interrupt
 
